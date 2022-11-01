@@ -1,0 +1,32 @@
+#root {
+  background-color: #fda1a1;
+}
+
+#corp1,
+#corp2 {
+  width: 75%;
+  background-color: #fdfdfc;
+
+  box-shadow: 5px 5px 12px #0c151a, -5px -5px 12px #d4ffff;
+}
+
+#profilHead {
+  background-color: #e84e4c;
+}
+
+#profilBody {
+  background-color: #f3f3f3;
+}
+
+#imgProfil {
+  width: 65%;
+  height: 95%;
+  box-shadow: 5px 5px 12px #86a2b6, -5px -5px 12px #b6dbf6;
+}
+#time {
+  border: 2px double black;
+}
+
+#btn1 {
+  background-color: #e84e4c;
+}
